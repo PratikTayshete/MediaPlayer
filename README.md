@@ -1,4 +1,4 @@
-# Custom-MediaPlayer-PySide2
+# MediaPlayer
 Created a Custom MediaPlayer using PySide2 that includes:
   - QVideoWidget.
   
